@@ -1,4 +1,4 @@
-### Project name: SVG2PNG Batch [中文]([README_zh.md)
+### Project name: SVG2PNG Batch [中文](https://github.com/HaiYangCode/svg2png/blob/main/README_zh.md)
 
 ### Project description This project is used to batch convert svg images to png format
 

@@ -1,4 +1,4 @@
-### 项目名：SVG2PNG批量 [中文]()(README.md)
+### 项目名：SVG2PNG批量 [中文]()(https://github.com/HaiYangCode/svg2png/blob/main/README.md)
 ### 项目介绍
 该项目用于将svg图片批量转成png格式的图片
 #### 用法
