@@ -3,7 +3,14 @@
 ### Project description This project is used to batch convert svg images to png format
 
 #### Usage
-```kotlin public static void main (String[] args) { System.out.println("Hello world!"); //enter svg directory and target directory svgToPng("/Users/yh/ AndroidStudioProjects/Icons/icons", "/Users/yh/Downloads/png"); } ```
+```kotlin 
+public static void main (String[] args) { 
+    System.out.println("Hello world!"); 
+    //enter svg directory and target directory 
+    svgToPng("/Users/yh/ AndroidStudioProjects/Icons/icons", "/Users/yh/Downloads/png");
+} 
+
+```
 
 #### has problems
 1. can not define the image according to the size of the svg hit, the solution is to parse the svg xml file to get the width and height.
